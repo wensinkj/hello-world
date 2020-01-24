@@ -1,2 +1,3 @@
 # hello-world
-Just tryna figure all this out
+
+Thoroughly enjoying that a class is finally teaching me skills I will actually utilize in the real world.
